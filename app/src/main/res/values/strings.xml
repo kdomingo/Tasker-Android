@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tasker</string>
+    <string name="tasks">Tasks</string>
+    <string name="deadline">Deadline</string>
+    <string name="task_title">Task title</string>
+    <string name="task_description">Task Description</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="complete_task">Complete Task</string>
+    <string name="edit">Edit</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="completed_tasks">Completed tasks</string>
+</resources>
